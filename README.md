@@ -5,27 +5,12 @@
 
 ## Description
 
-Hac Frontend is a React-based application designed to provide [brief description of the purpose and features of your project]. This project utilizes [mention any notable libraries or technologies used, e.g., Vite, Axios, TailwindCSS] to create an efficient and user-friendly interface.
+Hac Frontend is a React-based application designed to provide Socratic ai teaching. This project utilizes  Vite, Axios, TailwindCSS to create an efficient and user-friendly interface.
 
-## Table of Contents
-
-- [Features](#features)
-- [Demo](#demo)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Scripts](#scripts)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Features
-
-- Feature 1: [Brief description]
-- Feature 2: [Brief description]
-- Feature 3: [Brief description]
 
 ## Demo
 
-You can see a live demo of the project at [your live demo URL] (if available).
+You can see a live demo of the project at https://drive.google.com/file/d/1fxDZoP5CexUb9p3ks_Zcas0M50Okwzhe/view?usp=sharing
 
 ## Installation
 
